@@ -1,2 +1,2 @@
-Projeto React da RocketSeat
+Projeto React da RocketSeat<br/>
 EVENTO NLW
